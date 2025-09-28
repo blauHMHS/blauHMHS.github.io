@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: My site
-description: Short description
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Mrs. Lau's Sample Portfolio Site
+description: Short description by Mrs. Lau
